@@ -3,6 +3,8 @@
 ## Demo
 [Watch the project demo video](https://drive.google.com/file/d/1w6R9b8LRFOSKJnYVggug4Ff-Xnwmg8yh/view?usp=sharing)
 
+[Watch the project demo video2](https://drive.google.com/file/d/194TdTxVRs-S3_Offkj4uNLcwlR2O9Ntw/view?usp=sharing)
+
 ## Overview
 An automated parking management system that integrates mechanical components with PLC-HMI control interface for efficient vehicle routing and parking management. This project demonstrates the implementation of industrial automation principles in solving modern urban parking challenges.
 
