@@ -1,5 +1,7 @@
 # Intelligent Parking System
 
+https://github.com/liu518072504/Intelligent-Parking-System/issues/1#issue-2782279982
+
 ## Demo
 [Watch the project demo video](https://drive.google.com/file/d/1w6R9b8LRFOSKJnYVggug4Ff-Xnwmg8yh/view?usp=sharing)
 
